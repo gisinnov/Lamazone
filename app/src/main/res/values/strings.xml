@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lamazone</string>
+    <string name="action_settings">Filtre</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="reunion_fragment_label">Reunion</string>
+    <string name="choose_room">Choose a room</string>
+
+
+</resources>
